@@ -102,6 +102,6 @@ class MajorMainPage extends StatelessWidget {
             ],
           ),
         ),
-        bottomNavigationBar: BottomBar());
+        bottomNavigationBar: BottomBar()); // 여기에 이렇게만 적으면 됨
   }
 }
