@@ -1,3 +1,5 @@
+//BottomNavigarionBar 위젯
+
 import 'package:flutter/material.dart';
 
 class BottomBar extends StatelessWidget {
